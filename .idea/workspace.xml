@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3dc56be0-f2b6-4cc8-8f83-cd213f5513b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/encoder.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/encoder.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="$USER_HOME$/bin/elm" elmFormatPath="null" elmTestPath="null" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="pxl3z80d" />
+  </component>
+  <component name="ProjectId" id="1ihbshmXdas7t31ZI6wI41z5m0W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3dc56be0-f2b6-4cc8-8f83-cd213f5513b6" name="Default Changelist" comment="" />
+      <created>1602362978216</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602362978216</updated>
+      <workItem from="1602362979236" duration="1470000" />
+      <workItem from="1602408751607" duration="371000" />
+      <workItem from="1602410780232" duration="440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="747" y="321" key="FileChooserDialogImpl" timestamp="1602365012967">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="747" y="321" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602365012967" />
+    <state x="406" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602363122967">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="406" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1602363122967" />
+    <state x="623" y="259" key="run.anything.popup" timestamp="1602363214934">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="259" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602363214934" />
+    <state x="622" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1602363555038">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="622" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602363555038" />
+  </component>
+</project>

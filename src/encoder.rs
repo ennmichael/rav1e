@@ -54,6 +54,8 @@ type ProgressCallback = dyn FnMut(f64) -> ();
 
 pub static mut ON_PROGRESS: Option<Box<ProgressCallback>> = None;
 
+pub static mut PROGRESS_SCALE: f64 = 1.;
+
 // An extremely quick-and-dirty way to introduce progress tracking to encoding
 // single frames. My sincere apologies to anyone reading this code.
 struct ProgressTracker {
@@ -70,7 +72,7 @@ impl ProgressTracker {
     let nested_loop_iterations = self.nested_loop_iterations as f64;
     unsafe {
       if let Some(ref mut cb) = ON_PROGRESS {
-        cb(counter / (mappings * nested_loop_iterations));
+        cb(counter / (mappings * nested_loop_iterations) * PROGRESS_SCALE);
       }
     }
   }
