@@ -8,7 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dc56be0-f2b6-4cc8-8f83-cd213f5513b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/encoder.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/encoder.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +53,38 @@
       <updated>1602362978216</updated>
       <workItem from="1602362979236" duration="1470000" />
       <workItem from="1602408751607" duration="371000" />
-      <workItem from="1602410780232" duration="440000" />
+      <workItem from="1602410780232" duration="1134000" />
     </task>
+    <task id="LOCAL-00001" summary="Added progress scaling">
+      <created>1602411248851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602411248851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added progress scaling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added progress scaling" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="519" y="119" key="CommitChangelistDialog2" timestamp="1602411247643">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="519" y="119" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1602411247643" />
     <state x="747" y="321" key="FileChooserDialogImpl" timestamp="1602365012967">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="747" y="321" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1602365012967" />
+    <state x="559" y="286" key="Vcs.Push.Dialog.v2" timestamp="1602411321974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="286" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1602411321974" />
     <state x="406" y="222" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602363122967">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -73,9 +93,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="623" y="259" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602363214934" />
-    <state x="622" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1602363555038">
+    <state x="622" y="252" width="672" height="678" key="search.everywhere.popup" timestamp="1602411880610">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="622" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602363555038" />
+    <state x="622" y="252" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1602411880610" />
   </component>
 </project>
